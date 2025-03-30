@@ -1,0 +1,2 @@
+13.git fetch origin
+14.git checkout 1-remove-task-by-name

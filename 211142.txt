@@ -1,0 +1,6 @@
+13.git fetch origin
+14.git checkout 1-remove-task-by-name
+15.
+git add .
+git commit -m"Added remove task by name function"
+git push

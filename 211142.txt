@@ -16,3 +16,7 @@ git push
 18.
 git checkout master 
 git pull
+
+20. - 22.
+Во цекорите 20 - 22 немав конфликти при извршување
+git merge 3-list-tasks-sort-by-name

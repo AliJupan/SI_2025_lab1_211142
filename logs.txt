@@ -1,0 +1,18 @@
+* 6acb49f added description in txt doc
+*   7222369 Merge pull request #12 from AliJupan/3-list-tasks-sorted-by-name
+|\  
+| * 1505514 Added sortTasksByName function
+* |   e83bf19 Merge pull request #11 from AliJupan/2-find-all-completed-tasks
+|\ \  
+| * | 73c12a5 Added getCompletedTasks function
+| |/  
+* | c9a688b added text file content
+* |   1462f2d Merge pull request #10 from AliJupan/1-remove-task-by-name
+|\ \  
+| |/  
+|/|   
+| * 47c4dd1 Added codes to txt file
+| * 07f9f83 Added remove task by name function
+|/  
+* aca335b Add Starter Code
+* 1d2e6b9 Initial commit

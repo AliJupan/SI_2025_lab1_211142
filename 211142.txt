@@ -5,6 +5,14 @@ git add .
 git commit -m"Added remove task by name function"
 git push
 
+git add .
+git commit -m"Added getCompletedTasks function"
+git push
+
+git add .
+git commit -m"Added sortTasksByName function"
+git push
+
 18.
 git checkout master 
 git pull

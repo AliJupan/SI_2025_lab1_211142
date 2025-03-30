@@ -20,3 +20,14 @@ git pull
 20. - 22.
 Во цекорите 20 - 22 немав конфликти при извршување
 git merge 3-list-tasks-sort-by-name
+
+27. fork: https://github.com/stefanandonov/SI_2025_lab1_151020
+28. git clone https://github.com/AliJupan/SI_2025_lab1_151020.git
+29.
+git add .
+git commit -m "Add file"
+git push
+
+30.git checkout master
+
+31.pull requests - contribute - create pull request
